@@ -5,7 +5,7 @@ This was created on Nov 19, 2020.
 Investigate the TMDB movie dataset
 
 ### Description
-In this project, I project assures that I have mastered the subjects covered in the statistics lessons.
+This project assures that I have mastered the subjects covered in the statistics lessons.
 
 This is one of three projects where you have to apply what you have learned about statistics, SQL, python, git & github after being prepared by a lot of practice questions and quizes.
 
